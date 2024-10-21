@@ -34,12 +34,12 @@ Download the credentials JSON file and rename it to Key.json. Place it in the ro
 
 ## Project Structure
 graphql
-Copy code
 .
 ├── src
 │   └── app.py               # Streamlit application code
 ├── README.md                # Documentation
 └── Key.json                 # Google Sheets API credentials
+
 ## How to Run
 ### 1.Clone the repository:
 
