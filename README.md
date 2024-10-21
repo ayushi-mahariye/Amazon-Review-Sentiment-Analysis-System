@@ -1,9 +1,10 @@
 
 # Amazon Review Sentiment Analysis System
 
-## Overview
+## Goal of the Project
 
-This application allows users to analyze the sentiment of Amazon product reviews using a web interface built with Streamlit. The system retrieves review data from Google Sheets, processes the text using VADER Sentiment Analysis, and visualizes the results with interactive charts created using Plotly.
+The goal of this application is to provide users with an easy-to-use web interface for analyzing the sentiment of Amazon product reviews. By leveraging VADER Sentiment Analysis and Google Sheets for data retrieval, users can gain insights into customer opinions and sentiment trends in a visual format.
+
 
 ## Features
 
